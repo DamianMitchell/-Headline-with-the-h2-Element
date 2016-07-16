@@ -15,3 +15,5 @@ Your h1 element should have the text "Hello World"</p>
 <h4>this is h4</h4>
 <h5>this is h5</h5>
 <h6>this is h6</h6>
+
+<p>When doing some of these lessons, I would set up an editor called notepad++ to help you for off line to see what it does to the actual webpages. Just write a sentence and place them with each heading. you can go to <h3>languages</h3> in <h3>notepad++</h3> and select<h3>HTML</h3>. After your done with the format, select <h3>run</h3> and <h3>browers</h3>.</p>
