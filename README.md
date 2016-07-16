@@ -8,3 +8,10 @@ Freecodecamp "Headline with the h2 Element"
 Make sure your h2 element has a closing tag.</br>
 Your h2 element should have the text "CatPhotoApp".</br>
 Your h1 element should have the text "Hello World"</p>
+
+<h1>this is h1</h1>
+<h2>this is h2</h2>
+<h3>this is h3</h3>
+<h4>this is h4</h4>
+<h5>this is h5</h5>
+<h6>this is h6</h6>
